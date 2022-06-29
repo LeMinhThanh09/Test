@@ -1,14 +1,14 @@
-*{
-  padding: 0;
-  margin: 0;
-  font-family: "Roboto"
-}
+
+
  h1 {
         color: white;
         text-align: center;
+        font-style: "Lucida Grande";
+   
       }
+
       html {
-        background:#2c3e50;
+        background: #000000;
         
       }
       button{
