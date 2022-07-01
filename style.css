@@ -29,14 +29,16 @@ header {
 }
 
 a {
-  color: black
-  width: 20px;
-  height: 20px;
+  color: black;
+  width: 100px;
+  height: 100px;
   background: white;
 }
 img{
   width: 200px;
   height: 200px;
 }
+
+
       
     
