@@ -12,9 +12,12 @@
 h1 {
         color: white;
         text-align: center;
-        font-style: "time new roman";
+        font-style: "sans-serif";
          font-size: 40px;
          }
+a{
+  color: white;
+}
 
       button{
         color: white;
@@ -40,7 +43,7 @@ img{
 
 
 .c1{
-  float:left;
+  float: left;
   background-color:#2d3436;
    border: 2px solid black;
   margin: 20px;
@@ -51,11 +54,20 @@ img{
         font-style: "time new roman";
          font-size: 20px;
 }
- a{
-    color: white;
+
+.c2{
+  float: left;
+  background-color:#2d3436;
+   border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+  width: 15%;
+  text-align: center;
+  color: white;
         font-style: "time new roman";
          font-size: 20px;
-  }
+}
+ 
 
 
 
