@@ -28,31 +28,32 @@ header {
   background: white;
 }
 
-a {
-  color: black;
-  width: 100px;
-  height: 100px;
-  background: white;
-}
+  
+  
+
 img{
   width: 200px;
   height: 200px;
 }
 
 
-h3{
-  color: white;
-        font-style: "time new roman";
-         font-size: 20px;
-         
-}
+
 
 .cc{
-  background-color:;
+  background-color:#2d3436;
    border: 2px solid black;
   margin: 20px;
   padding: 20px;
+  width: 25%;
+  text-align: center;
+  color: white;
+        font-style: "time new roman";
+         font-size: 20px;
 }
-
+ a{
+    color: white;
+        font-style: "time new roman";
+         font-size: 20px;
+  }
       
     
