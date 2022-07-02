@@ -82,6 +82,18 @@ img{
          font-size: 20px;
 }
  
+.c4{
+  float: left;
+  background-color:#2d3436;
+   border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+  width: 15%;
+  text-align: center;
+  color: white;
+        font-style: "time new roman";
+         font-size: 20px;
+}
 
 
 
