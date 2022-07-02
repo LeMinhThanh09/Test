@@ -39,12 +39,13 @@ img{
 
 
 
-.cc{
+.c1{
+  float:left;
   background-color:#2d3436;
    border: 2px solid black;
   margin: 20px;
   padding: 20px;
-  width: 25%;
+  width: 15%;
   text-align: center;
   color: white;
         font-style: "time new roman";
@@ -55,5 +56,9 @@ img{
         font-style: "time new roman";
          font-size: 20px;
   }
+
+
+
+
       
     
