@@ -42,10 +42,16 @@ img{
 
 h3{
   color: white;
-        text-align: left
         font-style: "time new roman";
          font-size: 20px;
          
+}
+
+.cc{
+  background-color:;
+   border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
 }
 
       
